@@ -3,7 +3,7 @@ title: "TruckDeck Lite"
 github: "https://github.com/HackerDpro/TruckDeck-Lite"
 description: "This would be my first version (V0.1) of the TruckDeck Lite. It is a realistic panel build for truck simulators with a realistic layout full of useful buttons in all kinds of forms (switches, rotary encoders, momentary switches, ...). This way, simmers can have an affordable piece of sim gear that makes the simulator more immersive."
 created_at: "2026-11-14"
-total_time: "4h 36m"
+total_time: "11h 12m"
 ---
 
 # November 14, 2026: I started the 3D model in OnShape CAD
@@ -80,3 +80,45 @@ Timelapse: https://lapse.hackclub.com/timelapse/Q9ECc0dqpBLG
 Timelapse: https://lapse.hackclub.com/timelapse/pKQddVnCMfZ6
 
 **Total time spent: 2h 18m**
+
+# November 16, 2026: Very big day, I did alot today!
+<!-- fabricate:entry 3235 -->
+
+## Checklist
+
+While working today I made a checklist in Excel for myself, I had evrything that I wanted to complete today, ***AND I DID!***
+
+## 3D models
+
+- I have made a new 3D model for a **desk mounting stand** for my TruckDeck. It contains two arms that leans the TruckDeck at a *20° angle*.
+
+- I made a **3D knob** model for the rotary encoders, that way the user would easly be able to rotate them (I heard that without knobs they aren't very easy to rotate)
+
+- I have polished and finished all the 3D models, *at least that's what I thought...* While reading the Submitting documentation, I saw that you also need 3D models that have all components in it (so I will have to make simplified versions of each component I'll use, alot of work)
+
+## AI and Documents
+
+I started **writing the documents** that are needed (pinmap.md, wiring.md, README.md, ...) I first did them with AI draft as background, but after further consideration I am ding it the 100% human way. Tomorrow I will remove all the documents that are made with AI help and I will rewrite them all myself. Although AI may still be used for me to understand how things work like a wiring diagram and pin-map (but *not for the writing*).
+
+## BOM list
+
+The BOM list is **completely finished** and now also in [the Github repo](https://github.com/HackerDpro/TruckDeck-Lite).
+
+## Bad news
+
+Lastly I have some **bad news for me**, I was hoping to be able to get the project ready before **18 november** so I could get *+50% scraps*. But after consideration I decided to not get the extra reward and instead have a better project. I will be able to put more time in the project, create more costum things and make it even better all along.
+
+### Interested
+If any of you want to know more what I am doing, be sure to watch my timelapse, as it literally shows what I do.
+
+![](https://fabricate.hackclub-assets.com/2d656005b313a4b8eb1c0dbf86d09d5d53d10c27ce385d15e473001d6a998e39/image-png/Schermafbeelding%202026-11-16%20193105.png)
+![](https://fabricate.hackclub-assets.com/ad45972b579b7aff097916bb2d71668941823d42470f4c84b48245c7b78865a4/image-png/Schermafbeelding%202026-11-16%20193138.png)
+![](https://fabricate.hackclub-assets.com/bacad76f41a9490ddf4d8515435a9aa290641a4e86e32e9aa6fdeb0d40ae1655/image-png/Schermafbeelding%202026-11-16%20193200.png)
+![](https://fabricate.hackclub-assets.com/8aab3fefe8def6924287154204ae8839d29b8ddf49d9ed4fc2aae3b1f3aa990e/image-png/Schermafbeelding%202026-11-16%20193256.png)
+![](https://fabricate.hackclub-assets.com/97c9ff756f099817f79071dc3fd04b974604afabbbef6432adc0e07693d1f883/image-png/Schermafbeelding%202026-11-16%20220806.png)
+
+Timelapse: https://lapse.hackclub.com/timelapse/k11lK17wgLMN
+Timelapse: https://lapse.hackclub.com/timelapse/F8nY6UvCNkPW
+Timelapse: https://lapse.hackclub.com/timelapse/uIahg-JkzqAp
+
+**Total time spent: 6h 36m**
