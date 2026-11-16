@@ -8,7 +8,7 @@ An affordable HID control panel for truck simulator such as **Euro Truck Simulat
 
 **Repository:** ***[TruckDeck-Lite](https://github.com/HackerDpro/TruckDeck-Lite)*** Obviously
 
-**Progress journal:** ***[Journal](https://github.com/HackerDpro/TruckDeck-Lite/blob/main/JOURNAL.md)***
+**Progress journal:** ***[Journal](JOURNAL.md)***
 
 ![TruckDeck Lite top plate](cad/screenshots/Schermafbeelding%202026-11-16%20193200.png)
 
