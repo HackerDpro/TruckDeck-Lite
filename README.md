@@ -51,7 +51,7 @@ All cutout dimensions are based on supplier drawings and product-page dimensions
 
 ## BOM
 
-The BOM can be found at [BOM]()
+The BOM can be found at [BOM.csv](BOM.csv)
 
 Current summary:
 
