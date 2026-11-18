@@ -3,13 +3,12 @@ title: "TruckDeck Lite"
 github: "https://github.com/HackerDpro/TruckDeck-Lite"
 description: "This would be my first version (V0.1) of the TruckDeck Lite. It is a realistic panel build for truck simulators with a realistic layout full of useful buttons in all kinds of forms (switches, rotary encoders, momentary switches, ...). This way, simmers can have an affordable piece of sim gear that makes the simulator more immersive."
 created_at: "2026-11-14"
-total_time: "11h 12m"
+total_time: "16h 12m"
 ---
 
 # November 14, 2026: I started the 3D model in OnShape CAD
-<!-- fabricate:entry 2991 -->
 
-## **!!!First Time!!!**
+# **!!!First Time!!!**
 ### My project is taking shape...
 - #### Today I started making the 3D model of my **TruckDeck** project. Currently I have done the measures for the casing and have begun adding the measures for the switches and buttons, althought they aren't real dimensions yet, just placeholders. 
 
@@ -28,10 +27,9 @@ Timelapse: https://lapse.hackclub.com/timelapse/045DQ8SmerB-
 
 **Total time spent: 54m**
 
-# November 14, 2026 (entry 2): Layout changed, measurements adjusted.
-<!-- fabricate:entry 3004 -->
+# November 14, 2026: Layout changed, measurements adjusted.
 
-## Layout changed and measurements are adjusted!
+# Layout changed and measurements are adjusted!
 ### I recently changed the layout of the button/switches' placement, and added more precise measures to them.
 - The layout totally changed from last time **"very big change"**, We have now a layout with a centered horn, left/right indicators next to each other, ... (view image below) 
 
@@ -53,16 +51,15 @@ Timelapse: https://lapse.hackclub.com/timelapse/Q9ECc0dqpBLG
 **Total time spent: 1h 24m**
 
 # November 15, 2026: Finished the 3D model + more
-<!-- fabricate:entry 3118 -->
 
-## I finished the 3D model!
+# I finished the 3D model!
 - The front plate is done and all the holes have the correct measures of each switch- and buttontype.
 - The casing of the project (the box where all the components and wiring are inside) is done too! The front plate connects with it using 4x M3 screws (one for each corner).
 
-## All the components known!
+# All the components known!
 - I have made a shopping cart in [TinyTronics](https://www.tinytronics.nl/) with all the components used in this project inside, each button, switch, rotary encoder, cable, controller, heat shrink, ... Everything. Soon I'll add them to the BOM.
 
-## Word document!
+# Word document!
 - The word document is now completed with all the components used for each function and all the dimensions needed (measurements x/y and also mounting hole measures) everything is in millimeters.
 - The word document is now also available in the [Github repo](https://https://github.com/HackerDpro/TruckDeck-Lite)
 
@@ -82,7 +79,6 @@ Timelapse: https://lapse.hackclub.com/timelapse/pKQddVnCMfZ6
 **Total time spent: 2h 18m**
 
 # November 16, 2026: Very big day, I did alot today!
-<!-- fabricate:entry 3235 -->
 
 ## Checklist
 
@@ -122,3 +118,56 @@ Timelapse: https://lapse.hackclub.com/timelapse/F8nY6UvCNkPW
 Timelapse: https://lapse.hackclub.com/timelapse/uIahg-JkzqAp
 
 **Total time spent: 6h 36m**
+
+# November 17, 2026: Progress pre-submitting
+
+Today we still have some big progress!
+
+## Creation banner and logo
+
+I did my best at making a **banner** and **logo** for this TruckDeck project. It was created totally by me in [Canva](https://canva.com).
+- I have a somber/obscure banner background with two trucks (not designed by me, found in the free canva library) and in the middle our name "TruckDeck" in blue (I like bluee) and the project name in white (Lite V0.1). You may already have seen it on this project's banner.
+- Next is the logo, I designed a 1:1 logo that could be trimmed into a cricle without critical parts being cut. It contains the same truck of the banner and again our name "TruckDeck" in bluee. It also has rounded roads at the sides.
+
+## 3D modelling (again)
+
+This time I was 3D modelling because I saw yesterday that to ship you need a 3D render of ***all the 3D models in one + ALL ELECTRONICS*** So I made very simple and minimalistic models of the electronics (switches/buttons/encoders/microcontroller), I really hope it is enough because I ain't that good to start modelling the detailes. And it took me a long time to figure out how to insert/import external 3D models into one Onshape document, but I finally got it (use the **Derived** tool).
+
+# That's all for today, I wish you a day as fun as mine!
+
+![](https://fabricate.hackclub-assets.com/ca35fe1bcec5f39258c111799b6f16abbb96d6592aa5b13a18beca38b5078cb4/image-png/Truck%20Deck.png)
+![](https://fabricate.hackclub-assets.com/62cfb21747dc3fa79476b024c67cf06418200abaa9d31a7a9d24d0b3c3849526/image-png/TruckDeck.png)
+![](https://fabricate.hackclub-assets.com/0c8af9915f03361303d4d6aa3e2c0fe8c00d9959c2e708d45b237f45b4557a88/image-png/Schermafbeelding%202026-11-17%20224721.png)
+
+Timelapse: https://lapse.hackclub.com/timelapse/vlblfBFzdxRp
+
+**Total time spent: 2h 30m**
+
+# November 18, 2026: Wiring Diagram
+
+Today I mostly worked on making a **wiring diagram**.
+
+I made the wiring diagram in Canva (here is the current [link](https://canva.link/zfr1aztkf37mvuj)).
+Later I also started working on making the written version, but I didn't finish yet.
+
+# Github
+
+I also organized the [github repo](https://github.com/HackerDpro/TruckDeck-Lite) better, the docs and pictures are complete, but I am still working on the README and wiring markdowns.
+
+# Big mistakes
+I also realized some big mistakes.
+
+- Some buttons I use are actually mainly for the steering wheel, nobody want's it on a box next to their steering wheel (indicators, horn, retard, ...). Tomorrow I wil brainstorm what I will do, which one I will remove, what will I replace them with, etc.
+
+It feels like I'm starting the project again from the beginnning, but actually it's just a minor change, some buttons can stay the same and I just change the labels or similar.
+
+# End
+
+That's it for today, I know, it is a shorter devlog than other times, but I didn't have much to say.
+***See you next time!***
+
+![](https://fabricate.hackclub-assets.com/1b141b4b66787ed07348969f71e21915c548f97f61b1c43ac380a57e6a802516/image-png/Wiring%20Diagram.png)
+
+Timelapse: https://lapse.hackclub.com/timelapse/nYSBRIKBr9FY
+
+**Total time spent: 2h 30m**
